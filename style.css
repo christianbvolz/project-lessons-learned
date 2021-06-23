@@ -9,31 +9,31 @@
 #cabecalho {
   top: 0;
   position: fixed;
-  background-color: #6564DB;
+  background-color: #6564db;
   width: 1200px;
-  border: 5px solid #232ED1;
+  border: 5px solid #232ed1;
   border-radius: 0 0 30px 30px;
   margin-inline: 60px;
   padding-inline: 20px;
 }
 
 #cabecalho p, #cabecalho h1 {
-  background-color: #6564DB;
+  background-color: #6564db;
   text-align: center;
-  color: #0D1317;
+  color: #0d1317;
 }
 
 #cabecalho p a {
-  background-color: #6564DB;
+  background-color: #6564db;
   text-decoration: none;
   padding-inline: 20px;
-  color: #101D42;
+  color: #101d42;
 }
 
 main {
   display: inline-block;
-  border: 5px solid #232ED1;
-  background-color: #6564DB;
+  border: 5px solid #232ed1;
+  background-color: #6564db;
   border-radius: 30px;
   margin-top: 80px;
   width: 1000px;
@@ -44,7 +44,7 @@ main {
 
 #minha_foto {
   width: 150px;
-  border: 5px solid #232ED1;
+  border: 5px solid #232ed1;
   border-radius: 20px 50px;
   float: left;
   margin-top: 20px;
@@ -54,15 +54,15 @@ main section {
   margin-left: 20px;
   margin-top: 5px;
   width: 400px;
-  background-color: #6564DB;
-  color: #101D42;
+  background-color: #6564db;
+  color: #101d42;
 }
 
 .lado-esquerdo {
   float: left;
 }
 div {
-  background-color: #6564DB;
+  background-color: #6564db;
   margin-left: 200px;
   height: 450px;
   padding: 10px;
@@ -76,7 +76,7 @@ main section ol, main section ul {
 main section ul {
   float: right;
   padding-right: 10px;
-  background-color: #6564DB;
+  background-color: #6564db;
 }
 
 main h2 {
@@ -85,64 +85,64 @@ main h2 {
   margin-left: 30px;
   vertical-align: top;
   margin-top: 15px;
-  color: #0D1317;
-  background-color: #6564DB;
+  color: #0d1317;
+  background-color: #6564db;
 }
 
 li {
   line-height: 30px;
-  background-color: #6564DB;
+  background-color: #6564db;
 }
 
-#article {
+/* #article {
   width: 350px;
   font-family: monospace;
-  color: #101D42;
+  color: #101d42;
   font-size: large;
   line-height: 25px;
 }
 
 .lado-direito {
   float: right;
-  background-color: #6564DB;
+  background-color: #6564db;
 }
 
 .lado-direito p {
-  background-color: #6564DB;
+  background-color: #6564db;
   border-radius: 50px 20px;
   padding: 20px;
-  border: 5px solid #232ED1;
+  border: 5px solid #232ed1;
 }
 
 aside {
   display: inline-block;
-  border: 5px solid #232ED1;
+  border: 5px solid #232ed1;
   border-radius: 20px 50px;
   width: 100px;
   vertical-align: top;
   margin-top: 80px;
   margin-left: 10px;
   padding: 15px;
-  background-color: #6564DB;
+  background-color: #6564db;
 }
 
-aside p em, aside p{
-  background-color: #6564DB;
+aside p em, aside p {
+  background-color: #6564db;
 }
 
 #rodape {
-  border: 5px solid #232ED1;
+  border: 5px solid #232ed1;
   width: 1200px;
   margin-inline: 80px;
   margin-top: 15px;
-  background-color: #6564DB;
+  background-color: #6564db;
   text-align: center;
   padding: 5px;
   border-radius: 30px 30px 0 0;
 }
 
 #rodape a {
-  background-color: #6564DB;
+  background-color: #6564db;
   text-decoration: none;
-  color: #0D1317;
-}
+  color: #0d1317;
+} */
