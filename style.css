@@ -1,10 +1,10 @@
-/* * {
+* {
   margin: 0;
   padding: 0;
   background-color: rgb(253, 251, 251);
 }
 
-paleta de cores: #89D2DC #6564DB #232ED1 #101D42 #0D1317
+/* paleta de cores: #89D2DC #6564DB #232ED1 #101D42 #0D1317 */
 
 #cabecalho {
   top: 0;
@@ -145,4 +145,4 @@ aside p em, aside p {
   background-color: #6564db;
   text-decoration: none;
   color: #0d1317;
-} */
+}
